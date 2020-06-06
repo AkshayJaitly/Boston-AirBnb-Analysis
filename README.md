@@ -1,1 +1,3 @@
-# Udacity_DataScience
+# Boston AirBnb Data Analysis
+
+Analysing the Boston Data for Airbnb
