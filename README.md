@@ -32,7 +32,7 @@ Python3, Jupyter Notebook
 - The most common price listings are in the 50-200 USD range with the highest price being 4000 dollars
 - Property types like bread and breakfast are the cheapest and room types which are shared are generally cheapest
 - Entire homes/ apartments are the most costly in each neighbourhood while South boston Waterfront is the most expensive neighburhood at 306 dollars.
-- Top 5 amenities are WirelessInternet, Heating, kitchen, Essentials, Smoke detector
+- Top 5 amenities are Wireless Internet, Heating, kitchen, Essentials, Smoke detector
 
 ## Deployment:
 Using Google Collab, but can also be run using jupypter notebook command.
