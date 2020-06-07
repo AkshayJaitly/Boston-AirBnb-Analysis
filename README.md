@@ -1,5 +1,5 @@
 # Boston AirBnb Data Analysis
-Analysing the Boston Data for Airbnb
+Analysing the Boston Data for Airbnb. The blog post is here https://medium.com/@aj455/boston-airbnb-data-analysis-43c38b1cfae5
 
 ## Motivation
 This project was created as part of Udacity's Data Scientist nanodegree. Here I have analyzed Boston Airbnb Open Data following CRISP-DM methodology. Airbnb data for other cities have the same format. So the same understandings and code can be applied to Airbnb dataset of any other city.
